@@ -1,5 +1,9 @@
-v5.5.9-KLTV version
+v5.6.0-KLTV version
 - enabled download with KLTV downloader - KLTV is required for this function
+
+v5.6.0
+- wide clean up code
+
 v5.5.9
 - transactional release
 
